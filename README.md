@@ -19,7 +19,7 @@ In reCAPTCHA v2, users need to click the button: "I'm not a robot" to prove they
 ## Installation
 
 ```
-composer require albertcht/invisible-recaptcha
+composer require sokolnikov911/invisible-recaptcha
 ```
 
 ## Laravel 5
@@ -255,17 +255,3 @@ _submitEvent = function() {
 Repo: https://github.com/albertcht/invisible-recaptcha-example
 
 This repo demonstrates how to use this package with ajax way.
-
-## Showcases
-
-* [Laravel Boilerplate](https://github.com/Labs64/laravel-boilerplate)
-
-## Credits 
-
-* anhskohbo (the author of no-captcha package)
-* [Contributors](https://github.com/albertcht/invisible-recaptcha/graphs/contributors)
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/albertcht/invisible-recaptcha/badge.svg?style=beer-square)](https://beerpay.io/albertcht/invisible-recaptcha)  [![Beerpay](https://beerpay.io/albertcht/invisible-recaptcha/make-wish.svg?style=flat-square)](https://beerpay.io/albertcht/invisible-recaptcha?focus=wish)
